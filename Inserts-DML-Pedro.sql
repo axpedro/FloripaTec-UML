@@ -19,3 +19,4 @@ INSERT INTO Consulta ( ID_Paciente, ID_Nutricionista, Data_consulta , Observacoe
 	(1 , 7 , '12/06/2024' , 'Sabado'),
     (1 , 8 , '12/06/2024' , 'Intolerante lactose'),
     (2 , 9 , '12/06/2024' , 'Diabetico');
+select * from consulta

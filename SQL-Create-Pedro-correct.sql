@@ -26,3 +26,7 @@ CREATE TABLE Consulta (
     FOREIGN KEY (ID_Paciente) REFERENCES Paciente(ID_Paciente),
     FOREIGN KEY (ID_Nutricionista) REFERENCES Nutricionista(ID_Nutricionista)
 );
+
+
+
+
